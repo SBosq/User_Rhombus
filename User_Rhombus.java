@@ -2,8 +2,8 @@ import java.util.Scanner;
 /**
  * Write a description of class User_Rhombus here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * Saulo Bosquez
+ * v1.1
  */
 public class User_Rhombus
 {
